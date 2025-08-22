@@ -1,5 +1,11 @@
-A raspberry pi project, made using the wokwi online simulator, featuring a simple traffic light.
-The app cycles between the 3 LEDs at a certain interval each
-green LED: 5 seconds
-yellow LED: 2 seconds
-red LED: 5 seconds
+# [Raspberry Pi Traffic Light Simulator](https://wokwi.com/projects/440001709754995713)
+
+A Raspberry Pi project, made using the [Wokwi online simulator](https://wokwi.com/), featuring a basic traffic light system
+
+##Overview
+
+An app simulating a traffic light, using 3 LEDs wich are cycled through, infinitely, at set intervals:
+
+- **green LED: 5 seconds
+- **yellow LED: 2 seconds
+- **red LED: 5 seconds
