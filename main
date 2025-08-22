@@ -18,7 +18,7 @@ void light_cycle(){
   digitalWrite(LED_GREEN, HIGH);
   digitalWrite(LED_YELLOW, LOW);
   digitalWrite(LED_RED, LOW);
-  delay(2000);
+  delay(5000);
 
   digitalWrite(LED_GREEN, LOW);
   digitalWrite(LED_YELLOW, HIGH);
@@ -28,5 +28,5 @@ void light_cycle(){
   digitalWrite(LED_GREEN, LOW);
   digitalWrite(LED_YELLOW, LOW);
   digitalWrite(LED_RED, HIGH);
-  delay(2000);
+  delay(5000);
 }
